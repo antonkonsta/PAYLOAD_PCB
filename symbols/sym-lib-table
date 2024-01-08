@@ -1,0 +1,13 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "MCUs")(type "KiCad")(uri "${KIPRJMOD}/MCUs.kicad_sym")(options "")(descr ""))
+  (lib (name "BNO055")(type "KiCad")(uri "${KIPRJMOD}/BNO055.kicad_sym")(options "")(descr ""))
+  (lib (name "Trinket M0")(type "KiCad")(uri "${KIPRJMOD}/Trinket M0.kicad_sym")(options "")(descr ""))
+  (lib (name "RFModule")(type "KiCad")(uri "${KIPRJMOD}/RFModule.kicad_sym")(options "")(descr ""))
+  (lib (name "Polulu")(type "KiCad")(uri "${KIPRJMOD}/Polulu.kicad_sym")(options "")(descr ""))
+  (lib (name "PM02")(type "KiCad")(uri "${KIPRJMOD}/PM02.kicad_sym")(options "")(descr ""))
+  (lib (name "PixHawk")(type "KiCad")(uri "${KIPRJMOD}/PixHawk.kicad_sym")(options "")(descr ""))
+  (lib (name "motorsymbol")(type "KiCad")(uri "${KIPRJMOD}/motorsymbol.kicad_sym")(options "")(descr ""))
+  (lib (name "GPS")(type "KiCad")(uri "${KIPRJMOD}/GPS.kicad_sym")(options "")(descr ""))
+  (lib (name "ESC")(type "KiCad")(uri "${KIPRJMOD}/ESC.kicad_sym")(options "")(descr ""))
+)

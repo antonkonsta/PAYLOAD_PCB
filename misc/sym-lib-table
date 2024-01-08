@@ -1,0 +1,7 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Artemis")(type "KiCad")(uri "${KIPRJMOD}/Artemis.kicad_sym")(options "")(descr ""))
+  (lib (name "LiPoBattery")(type "KiCad")(uri "${KIPRJMOD}/LiPoBattery.kicad_sym")(options "")(descr ""))
+  (lib (name "Lipo")(type "KiCad")(uri "${KIPRJMOD}/Lipo.kicad_sym")(options "")(descr ""))
+  (lib (name "Jstconnector")(type "KiCad")(uri "${KIPRJMOD}/Jstconnector.kicad_sym")(options "")(descr ""))
+)

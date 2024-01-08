@@ -1,0 +1,9 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "adafruit gps")(type "KiCad")(uri "${KIPRJMOD}/footprints/adafruit gps.pretty")(options "")(descr ""))
+  (lib (name "BNO055")(type "KiCad")(uri "${KIPRJMOD}/footprints/BNO055.pretty")(options "")(descr ""))
+  (lib (name "powerRegulator")(type "KiCad")(uri "${KIPRJMOD}/footprints/powerRegulator.pretty")(options "")(descr ""))
+  (lib (name "RFModule")(type "KiCad")(uri "${KIPRJMOD}/footprints/RFModule.pretty")(options "")(descr ""))
+  (lib (name "Teensy")(type "KiCad")(uri "${KIPRJMOD}/footprints/Teensy.pretty")(options "")(descr ""))
+  (lib (name "Trinket M0")(type "KiCad")(uri "${KIPRJMOD}/footprints/Trinket M0.pretty")(options "")(descr ""))
+)
