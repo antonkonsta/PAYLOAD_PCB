@@ -119,10 +119,10 @@ void loop(void)
   if (recordMeasurements == 1) {
     altitude = bmp.readAltitude(SEALEVELPRESSURE_HPA);
     Serial.println(altitude);
-    if (altitude < 235.95){
+    if (altitude < 166.1){
       myservo.write(120);
     }
-    else if (altitude > 236.1){
+    else if (altitude > 166.6){
       myservo.write(0);
     }
 

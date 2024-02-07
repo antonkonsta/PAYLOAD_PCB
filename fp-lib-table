@@ -18,4 +18,7 @@
   (lib (name "JST-XH2")(type "KiCad")(uri "${KIPRJMOD}/footprints/JST-XH2.pretty")(options "")(descr ""))
   (lib (name "JST-XH3")(type "KiCad")(uri "${KIPRJMOD}/footprints/JST-XH3.pretty")(options "")(descr ""))
   (lib (name "FingerTech")(type "KiCad")(uri "${KIPRJMOD}/footprints/FingerTech.pretty")(options "")(descr ""))
+  (lib (name "Xt90")(type "KiCad")(uri "${KIPRJMOD}/footprints/Xt90.pretty")(options "")(descr ""))
+  (lib (name "Library")(type "KiCad")(uri "${KIPRJMOD}/footprints/DRV.pretty/Library.pretty")(options "")(descr ""))
+  (lib (name "DRV8833")(type "KiCad")(uri "${KIPRJMOD}/footprints/DRV8833.pretty")(options "")(descr ""))
 )
