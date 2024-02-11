@@ -53,8 +53,8 @@
     (stroke (width 0.05) (type default)) (fill none) (layer "F.SilkS") (tstamp c67a14bb-0fa1-4346-857e-fe1124cd2323))
   (fp_circle (center 2.54 2.54) (end 3.79 2.54)
     (stroke (width 0.2032) (type solid)) (fill none) (layer "Edge.Cuts") (tstamp 4a455506-f418-4f0a-bc9c-09e4932aaf2d))
-  (fp_circle (center 22.86 2.54) (end 24.11 2.54)
-    (stroke (width 0.2032) (type solid)) (fill none) (layer "Edge.Cuts") (tstamp 3594eac2-fead-4007-a0b9-b5dc1709c8a8))
+  (fp_rect (start 1.25 31.1) (end 23.9 33.5)
+    (stroke (width 0.05) (type default)) (fill none) (layer "B.CrtYd") (tstamp efb5a962-ccce-4e20-8d47-7af73168f4d1))
   (fp_rect (start -0.61 -1.01) (end 26.18 35.44)
     (stroke (width 0.05) (type default)) (fill none) (layer "F.CrtYd") (tstamp 1dbcba42-8dce-430e-b1c7-5369217d708a))
   (fp_poly
