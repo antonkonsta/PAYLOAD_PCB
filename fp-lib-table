@@ -22,4 +22,5 @@
   (lib (name "Library")(type "KiCad")(uri "${KIPRJMOD}/footprints/DRV.pretty/Library.pretty")(options "")(descr ""))
   (lib (name "DRV8833")(type "KiCad")(uri "${KIPRJMOD}/footprints/DRV8833.pretty")(options "")(descr ""))
   (lib (name "CAPC3216X110N")(type "KiCad")(uri "${KIPRJMOD}/CAPC3216X110N.pretty")(options "")(descr ""))
+  (lib (name "buzzer_PT-1241PFQ")(type "KiCad")(uri "${KIPRJMOD}/footprints/buzzer_PT-1241PFQ.pretty")(options "")(descr ""))
 )

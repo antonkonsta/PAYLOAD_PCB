@@ -18,4 +18,5 @@
   (lib (name "teensyMosfet")(type "KiCad")(uri "${KIPRJMOD}/symbols/teensyMosfet.kicad_sym")(options "")(descr ""))
   (lib (name "BMP388")(type "KiCad")(uri "${KIPRJMOD}/BMP388.kicad_sym")(options "")(descr ""))
   (lib (name "molex2pin")(type "KiCad")(uri "${KIPRJMOD}/symbols/molex2pin.kicad_sym")(options "")(descr ""))
+  (lib (name "buzzer_PT-1241PFQ")(type "KiCad")(uri "${KIPRJMOD}/buzzer_PT-1241PFQ.kicad_sym")(options "")(descr ""))
 )
