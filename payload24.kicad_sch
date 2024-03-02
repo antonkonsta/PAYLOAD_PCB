@@ -8,6 +8,7 @@
     (title "PCB Design Schematic")
     (date "2024-01-06")
     (rev "3")
+    (company "Anthony Konstantinidi")
   )
 
   (lib_symbols
